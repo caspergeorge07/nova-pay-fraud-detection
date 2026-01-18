@@ -1,0 +1,5 @@
+# Jupyter autosave checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*-checkpoint.ipynb
+*-checkpoint.md
