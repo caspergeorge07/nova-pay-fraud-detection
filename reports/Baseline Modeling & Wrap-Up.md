@@ -1,4 +1,4 @@
-# Week 2 · Day 1 Report — Baseline Modeling & Wrap-Up  :contentReference[oaicite:0]{index=0}
+# Week 2 · Day 1 Report — Baseline Modeling & Wrap-Up
 
 ## 1) Overview
 With the dataset cleaned and engineered features prepared, the focus of Week 2 Day 1 was to establish **baseline fraud-classification performance**. The purpose of these baselines is not to reach “final” accuracy, but to create a **measurable benchmark** that we can improve in Week 2 Day 3 (imbalance handling + advanced models).
