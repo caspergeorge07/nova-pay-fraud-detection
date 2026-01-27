@@ -1,4 +1,4 @@
-# Week 2 · Day 3 Report — Advanced Modeling & Imbalance Handling :contentReference[oaicite:0]{index=0}
+# Week 2 · Day 3 Report — Advanced Modeling & Imbalance Handling
 
 ## 1) Overview
 Fraud detection is an **imbalanced classification problem**: fraud cases are rare relative to legitimate transactions, and the business cost of missing fraud (false negatives) is typically high.  
